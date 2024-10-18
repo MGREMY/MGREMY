@@ -4,9 +4,20 @@
 
 ## You want some stats ? :bar_chart:
 
+<div align="center">
+<div>
+
+### MGREMY
+
+<p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent)
-</br>
+![GitHub Streak](https://streak-stats.demolab.com?user=MGREMY&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgremy&layout=compact)
+
+</p>
+</div>
+</div>
 
 ## Or what i'm listening to ? :headphones:
 
