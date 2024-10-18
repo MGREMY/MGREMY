@@ -7,11 +7,9 @@
 <div align="center">
 <div>
 
-### MGREMY
-
 <p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent&show=prs_merged&rank_icon=github)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MGREMY&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgremy&layout=compact)
 
@@ -64,7 +62,7 @@
 
 ## What are the projects I'm involved into ? :open_file_folder:
 
-[![themesberg/flowbite-angular - GitHub](https://gh-card.dev/repos/themesberg/flowbite-angular.svg?fullname=)](https://github.com/themesberg/flowbite-angular)
+[![themesberg/flowbite-angular - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=themesberg&repo=flowbite-angular)](https://github.com/themesberg/flowbite-angular)
 
 ## If there's something that's not here, DM me :smile:
 
