@@ -1,6 +1,6 @@
 # Welcome here 👋
 
-## About me :man:
+> French dev, un peu barjo par moments. Coding by day, dreaming in binary by night. Turning bugs into features since [insert year]. Don't worry, I have no idea what I’m doing either. Always pushing the limits, and occasionally the `git push --force` button.
 
 ## You want some stats ? :bar_chart:
 
@@ -66,4 +66,4 @@
 
 ## If there's something that's not here, DM me :smile:
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=epsilonehd)]()
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=epsilonehd)](https://discord.com/)
