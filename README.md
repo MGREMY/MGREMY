@@ -9,9 +9,9 @@
 
 <p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent&show=prs_merged&rank_icon=github)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent&show=prs_merged&rank_icon=github&cache_seconds=21600)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MGREMY&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgremy&layout=compact)
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgremy&layout=compact&cache_seconds=21600)
 
 </p>
 </div>
