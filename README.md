@@ -1,6 +1,6 @@
 # Welcome here 👋
 
-> French dev, un peu barjo par moments. Coding by day, dreaming in binary by night. Turning bugs into features since [insert year]. Don't worry, I have no idea what I’m doing either. Always pushing the limits, and occasionally the command `git push --force` button.
+> French dev, un peu barjo par moments. Coding by day, dreaming in binary by night. Turning bugs into features since [insert year]. Don't worry, I have no idea what I’m doing either. Always pushing the limits, and occasionally the `git push --force` command.
 
 ## You want some stats ? :bar_chart:
 
