@@ -2,20 +2,6 @@
 
 > French dev, un peu barjo par moments. Coding by day, dreaming in binary by night. Turning bugs into features since [insert year]. Don't worry, I have no idea what I’m doing either. Always pushing the limits, and occasionally the `git push --force` command.
 
-## You want some stats ? :bar_chart:
-
-<div align="center">
-<div>
-
-<p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=mgremy&show_icons=true&theme=transparent&show=prs_merged&rank_icon=github&cache_seconds=21600)
-![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgremy&layout=compact&cache_seconds=21600)
-
-</p>
-</div>
-</div>
-
 ## Or what i'm listening to ? :headphones:
 
 [![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7h3126sq4yt2ojng9ie0qpgeh&cover_image=false&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=50bed7&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7h3126sq4yt2ojng9ie0qpgeh&redirect=true)
