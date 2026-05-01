@@ -59,10 +59,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
-## What are the projects I'm involved into ? :open_file_folder:
-
-[![themesberg/flowbite-angular - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=themesberg&repo=flowbite-angular)](https://github.com/themesberg/flowbite-angular)
-
 ## If there's something that's not here, DM me :smile:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=epsilonehd)](https://discord.com/)
